@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Tic Tac Toe Game
 
 A clean and interactive web-based Tic-Tac-Toe game built with HTML, CSS, and Vanilla JavaScript. 
 
